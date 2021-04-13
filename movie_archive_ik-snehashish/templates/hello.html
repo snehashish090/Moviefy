@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <title>Moviefy</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+          crossorigin="anonymous">
+  </head>
+
+  <body style = "background: -webkit-linear-gradient(left, #54a0ff, #2ecc71);">
+     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <a class="navbar-brand" href="/">Moviefy</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                      <a class="nav-link" href="about">About <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link active" href="https://github.com/Snehashish-s-Organization">Source Code</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link active" href="home">Dashboard</a>
+                    </li>
+                  </ul>
+                  <form class="form-inline my-2 my-lg-0" method = "POST">
+                    <button class="btn btn-outline-success my-2 my-sm-0" name="log_in_out" value="{{log_msg}}"
+                    type="submit" {{status}}>{{log_msg}}</button>
+                  </form>
+                </div>
+              </nav>
+
+
+    <div class = "title1" style = "
+  width: 100%;
+  min-height: 85.1%;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* position the div in center */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px">
+      <h1 style = "font-size: 70px; font-family: sans-serif;">Keep track of the Movies you watch!</h1>
+      <!-- <form style = "margin:auto;" action="#" method="POST">
+        <button class="btn btn-success my-2 my-sm-0" name="log_in_out2" value="{{log_msg}}"
+        type="submit" {{status}}>{{log_msg}}</button>
+      </form> -->
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script> 
+  </body>
+</html>
