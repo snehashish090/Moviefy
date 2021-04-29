@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}Home Page{% endblock %}
+
+{% block header %}
+<style></style>
+{% endblock %}
+
+{% block content %}
+
+<h3 id="heading">Hello And Welcome to this Movie Archive Website!!!</h3>
+
+
+<form style="display: none">
+    <label id="inputs">
+        {{ comment_start }}
+        <input type="search" placeholder="Search for Movies" style="width: 800px" name="search" data-inline="true">
+        <input type="submit" value="search_submit" data-inline="true">
+        {{ comment_end }}
+    </label>
+</form>
+    <form id="myForm">
+    
+    <label for="myInput"></label>
+    <input type="text" id="myInput" onkeyup="myFunction()"
+           placeholder="Search for movies by name, director or status">
+    </form>
+    
+    <form action="#" method="POST">
+        <input class="btn btn-success my-2 my-sm-0"type = "submit" value = "Add a Movie"  id="buttons">
+        <input type="submit" class = "btn btn-success my-2 my-sm-0" name="del_value" value="Delete a movie" title="click to delete movie">
+    </form>
+
+{{ comment_start }}
+<table id="myTable">
+    <tr>
+        <th>Name</th>
+        <th>Language</th>
+        <th>Month</th>
+        <th>Status</th>
+        <th></th>
+    </tr>
+    {% for i in data %}
+        <tr>
+            <td>{{i["name"]}}</td>
+            <td>{{i["lang"]}}</td>
+            <td>{{i["month"]}}</td>
+            <td>{{i["status"]}}</td>
+            <td>
+                
+            </td>
+        </tr>
+    {% endfor %}
+</table>
+    {{ comment_start }}
+{{ msg }}
+{% endblock %}

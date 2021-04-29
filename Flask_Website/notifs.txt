@@ -1,0 +1,482 @@
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+{'snehashish': [], 'ishan': [], 'snehashish2': []}
+{'snehashish': [], 'ishan': [], 'snehashish2': [], '192.168.0.101': []}
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+('del_value',)
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+error
+{'snehashish': [], 'ishan': [], 'snehashish2': []}
+error
+{'snehashish': [], 'ishan': [], 'snehashish2': [], '192.168.0.101': []}
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+error
+{'snehashish': [], 'ishan': [], 'snehashish2': []}
+error
+{'snehashish': [], 'ishan': [], 'snehashish2': []}
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+('del_value',)
+-----
+{'snehashish': [], 'ishan': [], 'snehashish2': []}
+------
+-----
+{'snehashish': [], 'ishan': [], 'snehashish2': []}
+------
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}, {'name': 'ishan', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+-----
+{'snehashish': [{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}], 'ishan': [], 'snehashish2': []}
+------
+-----
+{'snehashish': [{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}], 'ishan': [], 'snehashish2': []}
+------
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}, {'name': 'ishan', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}, {'name': 'ishan', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+-----
+{'snehashish': [{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}], 'ishan': [], 'snehashish2': []}
+------
+-----
+{'snehashish': [{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}], 'ishan': [], 'snehashish2': []}
+------
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}, {'name': 'momi', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}, {'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'snehashish', 'director': 'lala', 'status': 'lsla'}, {'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+[]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'Momi', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('log_in_out',)
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+[]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'Test', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('log_in_out',)
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, False], ['Logout', 'Login'], ['192.168.0.101', '192.168.0.103'], ['snehashish', None], {'user_data.json': '.\\json\\user_data.json', 'logged.json': '.\\json\\logged.json', 'data.json': '.\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('log_in_out',)
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('log_in_out',)
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': '.\\json\\user_data.json', 'logged.json': '.\\json\\logged.json', 'data.json': '.\\json\\data.json'})
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('log_in_out',)
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'k', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'c:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.101
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': '.\\json\\user_data.json', 'logged.json': '.\\json\\logged.json', 'data.json': '.\\json\\data.json'})
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'snehashish', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'Gangam Style', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': '.\\json\\user_data.json', 'logged.json': '.\\json\\logged.json', 'data.json': '.\\json\\data.json'})
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': '.\\json\\user_data.json', 'logged.json': '.\\json\\logged.json', 'data.json': '.\\json\\data.json'})
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': '.\\json\\user_data.json', 'logged.json': '.\\json\\logged.json', 'data.json': '.\\json\\data.json'})
+([True, True], ['Logout', 'Logout'], ['192.168.0.101', '192.168.0.103'], ['snehashish', 'snehashish'], {'user_data.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\user_data.json', 'logged.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\logged.json', 'data.json': 'C:\\Users\\SNEHASHISH\\OneDrive\\Desktop\\Flask_Website\\json\\data.json'})
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+[]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'Ishan is the best', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('del_value',)
+[]
+['192.168.0.101', '192.168.0.103']
+True
+()
+[{'name': 'make sure', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+('log_in_out',)
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}, {'username': 'show ishan', 'pw': '12345'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'Gangam Style', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'Gangam Style', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+['192.168.0.101', '192.168.0.103']
+True
+[{'username': 'snehashish', 'pw': 'snehashish'}, {'username': 'ishan', 'pw': 'kashyap'}, {'username': 'snehashish2', 'pw': 'snehashish2'}, {'username': 'Momi', 'pw': 'snehashish'}, {'username': 'Suman', 'pw': 'suman'}, {'username': 'show ishan', 'pw': '12345'}]
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'Gangam Style', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+192.168.0.103
+['192.168.0.101', '192.168.0.103']
+True
+[{'name': 'jkofh', 'lang': 'Bengali', 'month': 'May', 'status': 'yet to start'}, {'name': 'f', 'lang': 'English', 'month': 'January', 'status': 'Watched'}, {'name': 'Gangam Style', 'lang': 'English', 'month': 'January', 'status': 'Watched'}]
+['192.168.0.101', '192.168.0.103']
+True
+()
